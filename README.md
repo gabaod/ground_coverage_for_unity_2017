@@ -5,7 +5,7 @@ HOW TO USE:
    objects (one per species/colony) + an optional ground plane.
 3. File > Export > FBX (or flip EXPORT_FBX = True below and set FBX_PATH).
 4. Import the FBX into Unity as usual.
-5. Update settings to your liking:  CREATE_GROUND_PLANE = False
+5. Update settings to your liking:<br><br><br>  CREATE_GROUND_PLANE = False
 EXPORT_FBX = False
 FBX_PATH = "//ground_plant_colonies.fbx"   # used only if EXPORT_FBX = True
 
