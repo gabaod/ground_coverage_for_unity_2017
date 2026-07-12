@@ -1,6 +1,6 @@
 
 HOW TO USE:
-1. Open Blender 4.5 -> Scripting tab -> open this file (or paste it) -> Run.
+1. Open Blender 4.5 -> Scripting tab -> open ground_coverage.py and paste it to a new file -> Run.
 2. It builds a collection called "GroundPlantColonies" containing 15 mesh
    objects (one per species/colony) + an optional ground plane.
 3. File > Export > FBX (or flip EXPORT_FBX = True below and set FBX_PATH).
